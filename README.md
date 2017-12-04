@@ -3,7 +3,7 @@ Simple document with plugins used by me
 
 __Installation__
 ```
-apm install autoclose-html emmet file-icons higlight-selected language-babel
+apm install autoclose-html emmet file-icons highlight-selected language-babel
 platformio-ide-terminal react-snippeds
 ```
 
